@@ -1,0 +1,4 @@
+# Basic ignore package
+*.idea
+*.iml
+out/*
